@@ -1,0 +1,12 @@
+# 설치 파일
+node_modules/
+.next/
+
+# 비밀값 — 절대 올리지 않는다
+.env
+.env.*
+!.env.example
+
+# 개인 자료
+*.xlsx
+*.pem
